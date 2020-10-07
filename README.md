@@ -2,4 +2,4 @@
 ---
 ![이력서사진](linux.png)  
 
-<img src=linux.png height=10 width=100>
+<img src=linux.png height=100 width=100>
