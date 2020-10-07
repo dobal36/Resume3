@@ -3,3 +3,9 @@
 ![이력서사진](linux.png)  
 
 <img src=linux.png height=100 width=100>  
+박준영  
+
+---
+소속 : 소프트웨어융합대학   
+전공 : 빅데이터 전공  
+
